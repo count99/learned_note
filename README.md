@@ -5,7 +5,7 @@
 	- Django
 - Javascript
 - Html
-- CSS
+- [CSS](https://github.com/count99/learned_note/tree/master/css)
 - Algorithm
 - Linux
 - SQL
@@ -13,5 +13,5 @@
 
 各分類均含基本操作及庫、相關框架等等，在下屬目錄。
 
-清單目前還未加上連接，待日後有內容後，再做增加。
+
 

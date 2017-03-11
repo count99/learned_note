@@ -1,0 +1,61 @@
+# css初學筆記
+### 三種變更樣式方式
+1. css文件引用
+
+		如 <link rel='stylesheet' href='common.css'/>
+
+2. 	&lt;head&gt;中加上&lt;style&gt;編寫
+
+		<style>
+			.logo{
+			background-color:red;
+			}
+		</style>
+
+3.  &lt;div&gt;中直接編寫
+
+		如 <div style='background-color:red;'>123</div>
+	
+### 選擇器
+1. class選擇器
+
+		.logo{
+		background-color:red;
+		}
+
+2. id選擇器
+	
+		\#logo{
+		background-color:red;
+		}
+		
+3. 關聯選擇器
+
+		a div{
+		background-color:red;
+		}
+		
+4. 組合選擇器
+
+		a, div{
+		background-color:red;
+		}
+		
+5. 屬性選擇器
+
+		input[type='text']{
+		background-color:red;
+		}
+		
+### 背景
++ background-color
++ background-image
+	- 
++ background-repeat
+	- no-repeat;
+	- repeat-x;
+	- repeat-y;
+	- repeat;
++ background-attachment
++ background-position
+
