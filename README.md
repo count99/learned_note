@@ -1,8 +1,9 @@
 # 這是個人學習的筆記 #
 > 記錄個人所學習的，方便日後查閱及加深記憶。
 
-- Python
+- [Python](https://github.com/count99/learned_note/tree/master/python)
 	- Django
+	- Crawler
 - Javascript
 - Html
 - [CSS](https://github.com/count99/learned_note/tree/master/css)
