@@ -13,5 +13,5 @@ def getHTMLText(url):
         return "Gotten Error"
 
 if __name__ == '__main__':
-    url = "https://www.google.com"
-    print(getHTMLText(url))
+    url = "http://item.jd.com/10377022594.html"
+    print(getHTMLText(url)[:1000])
